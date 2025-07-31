@@ -8,5 +8,5 @@ Wersja skompilowana exe zawiera już wymagane biblioteki.
 
 Po uruchomieniu skryptu aby pobierać w czasie rzeczywistym zdarzenia dotyczące połączeń wymagane jest:
 
-posiadanie konta w usłudze wirtualnej centrali telefonicznej opartej na platformie Broadworks (Cisco)
-podanie loginu administratora, hasła administratora, identyfikatora Enterprise oraz ID grupy posiadanych w ramach konta.
+- posiadanie konta w usłudze wirtualnej centrali telefonicznej opartej na platformie Broadworks (Cisco)
+- podanie loginu administratora, hasła administratora, identyfikatora Enterprise oraz ID grupy posiadanych w ramach konta.
